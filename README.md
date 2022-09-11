@@ -16,7 +16,7 @@
     * [2,6,16,22,18,27]
     * [2,6,16,18,22,27]
 2. Big-O(n²)-->Big-O(6²)-->Big-O(36)  
-3. **Time Complexity** 
+3. **Time Complexity**<br>
     *Average Case: 16<br>
     *Worst Case: 27<br>
     *Best Case: 2<br>
