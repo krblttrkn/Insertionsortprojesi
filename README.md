@@ -31,4 +31,4 @@
 
 -------------------------------------------------------------------------------------
 # Patika Profilim:
-https://app.patika.dev/krblttrkn
+<a href="https://app.patika.dev/krblttrkn">patika linki</a>
