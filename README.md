@@ -17,9 +17,9 @@
     * [2,6,16,18,22,27]
 2. Big-O(n²)-->Big-O(6²)-->Big-O(36)  
 3. **Time Complexity** 
-    *Average Case: 16
-    *Worst Case: 27
-    *Best Case: 2
+    *Average Case: 16<br>
+    *Worst Case: 27<br>
+    *Best Case: 2<br>
 4. [2,6,16,18,22,27]
     Dizi sıralandıktan sonra 18 sayısı **Average Case** kapsamına girer.
 
