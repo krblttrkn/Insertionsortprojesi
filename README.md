@@ -4,7 +4,10 @@
 - **[22,27,16,2,18,6]**->Insertion Sort
 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 2. Big-O gösterimini yazınız.
-3. Time Complexity: Average case:Aradığımız sayının ortada olması, Worst case:Aradığımız sayının sonda olması, Best case:Aradığımız sayının dizinin en başında olması. 
+3. Time Copmlexity:Dizi sıralandıktan sonra  18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+    1. Average case: Aradığımız sayının ortada olması
+    2. Worst case: Aradığımız sayının sonda olması.
+    3. Best case: Aradığımız sayının dizinin en başında olması. 
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.<br><br>
 - **[7,3,5,8,2,9,4,15,6]** dizisinin Insertion Sort'a göre ilk dört adımını yazınız.
 
